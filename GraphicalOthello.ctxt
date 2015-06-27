@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GraphicalOthello()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ GraphicalOthello\r\n
+comment1.params=event
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.params=
+comment2.target=void\ Start()
+comment3.params=
+comment3.target=void\ reStart()
+comment4.params=
+comment4.target=void\ GameOver()
+comment5.params=
+comment5.target=void\ print()
+comment6.params=
+comment6.target=void\ copyGrid()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8
